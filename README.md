@@ -15,3 +15,4 @@
 
 ## Tarefas feitas
 - [X] Lógica do EX 01.
+- [X] Lógica do EX 02.
