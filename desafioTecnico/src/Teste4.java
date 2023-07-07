@@ -13,7 +13,7 @@ public class Teste4 {
             if ( (chars[i] == '?' || chars[i] == '.' || chars[i] == '!') && ( i <= ( phrase.length()  - 2) )) {
                 chars[i + 2] = Character.toUpperCase(chars[i + 2]);
             }
-            
+
         }
         System.out.println(chars);
     }
