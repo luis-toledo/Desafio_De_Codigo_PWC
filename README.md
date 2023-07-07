@@ -9,7 +9,7 @@
 
 ## Planejamento Inicial
 - [ ] Esboçar um menu.
-- [ ] Desenvolver lógica dos Exercícios.
+- [X] Desenvolver lógica dos Exercícios.
 - [ ] Commitar todos os avanços.
 - [ ] Revisar e estudar a melhor maneira de estruturar o código.
 
@@ -18,3 +18,4 @@
 - [X] Lógica do EX 02.
 - [X] Lógica do EX 03.
 - [X] Lógica do EX 04.
+- [X] Lógica do EX 05. 
