@@ -19,7 +19,6 @@ public class Screen extends JFrame {
 
     private JLabel jLabel = new JLabel();
     public Screen(){
-        Calculo calculo =  new Calculo();
 
         setTitle("DESAFIO DE CÓDIGO");
         setVisible(true);
@@ -29,6 +28,7 @@ public class Screen extends JFrame {
         setLocationRelativeTo(null);
         setLayout(null);
 
+        Calculo calculo =  new Calculo();
 
         JLabel title = new JLabel("Manipulação de Strings");
         title.setBounds(100, 10, 500, 40);
